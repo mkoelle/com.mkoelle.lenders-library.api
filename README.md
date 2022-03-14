@@ -12,3 +12,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+## Reading
+
+* [deploy typescript lambda with cdk](https://engineering.dunelm.com/deploying-typescript-lambdas-to-aws-with-the-cdk-ffa5519c16c5)
