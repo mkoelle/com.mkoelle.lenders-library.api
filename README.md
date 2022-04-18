@@ -15,4 +15,6 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Reading
 
+* [cdk2 getting started](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html)
 * [deploy typescript lambda with cdk](https://engineering.dunelm.com/deploying-typescript-lambdas-to-aws-with-the-cdk-ffa5519c16c5)
+* [api gateway cdk example](https://bobbyhadz.com/blog/aws-cdk-api-gateway-example)

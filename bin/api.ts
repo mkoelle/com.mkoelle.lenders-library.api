@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
-import { ComMkoelleLendersLibraryApiStack } from '../lib/com.mkoelle.lenders-library.api-stack';
+import { ComMkoelleLendersLibraryApiStack } from '../lib/api-stack';
 
 const app = new cdk.App();
 new ComMkoelleLendersLibraryApiStack(app, 'ComMkoelleLendersLibraryApiStack', {
