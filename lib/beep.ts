@@ -12,7 +12,7 @@ export class Service extends Construct {
 
     const handler = new lambda.NodejsFunction(this, "WidgetHandler", {
       entry: "lambda/beep.js",
-      handler: "beep.main",
+      handler: "main",
       environment: {
         BUCKET: bucket.bucketName
       }
